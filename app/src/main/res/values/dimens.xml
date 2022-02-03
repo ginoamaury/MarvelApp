@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacer">8dp</dimen>
+    <dimen name="spacer_double">16dp</dimen>
+    <dimen name="icon_size">15dp</dimen>
+    <dimen name="no_padding">0dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="padding_double">8dp</dimen>
+    <dimen name="card_corner">15dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="card_size">200dp</dimen>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="arrow_back_size">36dp</dimen>
+    <dimen name="detail_screen_padding">20dp</dimen>
+    <dimen name="detail_section_offset">-20dp</dimen>
+    <dimen name="detail_section_offset_column">120dp</dimen>
+    <dimen name="loading_size">100dp</dimen>
+</resources>
